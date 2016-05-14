@@ -5,6 +5,6 @@ if length(size(T))>2
 else
     M=T/max(max(T));
 end
-M=M*(-1)+1;
+
 end
 
