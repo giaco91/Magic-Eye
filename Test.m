@@ -12,10 +12,10 @@ T=T*(-1)+1;
 T=round(T);
 
 %Background
-B=imread('PinguLand.jpg');
+B=imread('leozoe.jpg');
 
 %Erzeuge Magic-Eye Bild
-SIPS(T,B,4,0.8);
+SIPS(T,B,12,0);
 
 
 
