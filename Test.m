@@ -15,7 +15,7 @@ T=round(T);
 B=imread('leozoe.jpg');
 
 %Erzeuge Magic-Eye Bild
-SIPS(T,B,12,0);
+SIPS(T,B,2,0.5);
 
 
 
